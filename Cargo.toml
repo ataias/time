@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["Ataias Pereira Reis <ataiasreis@gmail.com>"]
 
 [dependencies]
+rocket = "0.4.0"
+chrono = "0.4"
